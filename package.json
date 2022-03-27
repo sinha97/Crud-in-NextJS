@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "mdb-react-ui-kit": "^3.0.0",
+    "mongoose": "^6.2.8",
     "next": "12.1.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
